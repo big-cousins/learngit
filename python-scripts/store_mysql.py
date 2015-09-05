@@ -1,4 +1,5 @@
 #0002,将0001生成的200个激活码(或者优惠券)保存到MySQL关系型数据库中
+#author Jeremy
 #encoding=utf-8
 #!/usr/bin/env python 
 import mysql.connector
